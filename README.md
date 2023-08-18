@@ -1,4 +1,4 @@
-team members
+Team members
 
 -Kartikay Mehta(896189)
 -Nicolas posse(866286)
