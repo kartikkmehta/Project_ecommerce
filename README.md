@@ -1,9 +1,9 @@
 team members
 
-Kartikay Mehta(896189)
-Nicolas posse(866286)
-Augusto Rosa(892560)
-Saman (886608)
+-Kartikay Mehta(896189)
+-Nicolas posse(866286)
+-Augusto Rosa(892560)
+-Saman (886608)
 
 
 # [Shopping Time]
