@@ -24,6 +24,13 @@ Shopping Time is an e-commerce website that has at least 150 women's clothing pr
 ## Usage
 To run this project locally, follow these steps:
 
+
+cd path(c:/)
+npm init
+npm install express
+npm start 
+
+
 Clone or download the repository.
 Run npm install to install the necessary dependencies.
 Run npm start to start the development server.
